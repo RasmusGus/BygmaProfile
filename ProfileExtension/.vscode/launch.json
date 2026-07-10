@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "PROFILE_Sandbox_27032026",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "Synchronize",
+            "tenant": "926c8f57-3fca-440f-85ae-0cfd11e48ed8",
+            "environmentType": "Sandbox",
+            "environmentName": "PROFILE_Sandbox_27032026",
+        },
+    ]
+}
