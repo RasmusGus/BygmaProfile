@@ -2,7 +2,7 @@
   "id": "3f9e8c2a-6b7a-4d91-9f52-1a8d6c4b2e7f",
   "name": "BygmaProfileExtension",
   "publisher": "ERPgruppen",
-  "version": "28.0.0.2",
+  "version": "28.0.0.3",
   "brief": "",
   "description": "ERPg additions to Profile solution",
   "privacyStatement": "",
@@ -13,7 +13,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "28.0.0.0",
+  "application": "28.01,5.0.0",
   "idRanges": [
     {
       "from": 50500,
