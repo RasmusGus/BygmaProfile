@@ -29,4 +29,26 @@ page 50500 "Profit Item Groups"
             }
         }
     }
+    actions
+    {
+        area(Navigation)
+        {
+            group("Customer Salesperson List")
+            {
+                Caption = 'Customer Salesperson List';
+
+                action("Customer Salespersons")
+                {
+                    Caption = 'Customer Salesperson List';
+                    ApplicationArea = All;
+                    Image = CustomerList;
+                    Promoted = true;
+                    PromotedCategory = Process;
+                    PromotedIsBig = true;
+                    RunObject = Page "Customer Salesperson List";
+                }
+            }
+        }
+    }
+
 }
