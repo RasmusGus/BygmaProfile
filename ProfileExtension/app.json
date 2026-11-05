@@ -2,7 +2,7 @@
   "id": "3f9e8c2a-6b7a-4d91-9f52-1a8d6c4b2e7f",
   "name": "BygmaProfileExtension",
   "publisher": "ERPgruppen",
-  "version": "28.0.0.5",
+  "version": "28.0.0.7",
   "brief": "",
   "description": "ERPg additions to Profile solution",
   "privacyStatement": "",
@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "e3907796-b6d8-445b-b701-b734363c0190",
+      "name": "Timber",
+      "publisher": "acadon AG",
+      "version": "49.8.0.952197"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "28.0.0.0",

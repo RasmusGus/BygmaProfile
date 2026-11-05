@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK" original="BygmaProfileExtension.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2478991275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit Item Group</source>
+          <target state="translated">Avance varegruppe</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Salesperson - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2478991275 - Field 1425519166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Address</source>
+          <target state="translated">Debitor adresse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Salesperson - Field Customer Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2478991275 - Field 517184733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer City</source>
+          <target state="translated">Debitor by</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Salesperson - Field Customer City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2478991275 - Field 1533744026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Country Code</source>
+          <target state="translated">Debitor landekode</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Salesperson - Field Customer Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2478991275 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <target state="translated">Debitor navn</target>
+          <target>[NAB: SUGGESTION]Kundenavn</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Salesperson - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2478991275 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target state="translated">Debitornr.</target>
+          <target>[NAB: SUGGESTION]Kundenr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Salesperson - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2478991275 - Field 1526964443 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Post Code</source>
+          <target state="translated">Debitor postnummer</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Salesperson - Field Customer Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2478991275 - Field 4267659323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit Item Group Code</source>
+          <target state="translated">Avance varegruppekode</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Salesperson - Field Profit Item Group Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2478991275 - Field 553464652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson Code</source>
+          <target state="translated">Sælgerkode</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Salesperson - Field Salesperson Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3457414504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit Item Group</source>
+          <target state="translated">Avance varegruppe</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profit Item Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3457414504 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="translated">Kode</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profit Item Group - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3457414504 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Beskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profit Item Group - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2079811733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Salespersons</source>
+          <target state="translated">Debitor sælgere</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Salesperson List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2079811733 - Control 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target state="translated">Debitornr.</target>
+          <target>[NAB: SUGGESTION]Kundenr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Salesperson List - Control Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2079811733 - Control 1425519166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Address</source>
+          <target state="translated">Debitors adresse</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Salesperson List - Control Customer Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2079811733 - Control 517184733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer City</source>
+          <target state="translated">Debitors by</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Salesperson List - Control Customer City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2079811733 - Control 1533744026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Country/Region Code</source>
+          <target state="translated">Debitors lande-/områdekode</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Salesperson List - Control Customer Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2079811733 - Control 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <target state="translated">Debitornavn</target>
+          <target>[NAB: SUGGESTION]Kundenavn</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Salesperson List - Control Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2079811733 - Control 1526964443 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Post Code</source>
+          <target state="translated">Debitor postnummer</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Salesperson List - Control Customer Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2079811733 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit Item Group Code</source>
+          <target state="translated">Avance varegruppekode</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Salesperson List - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2079811733 - Control 553464652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson Code</source>
+          <target state="translated">Sælgerkode</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Salesperson List - Control Salesperson Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 704307318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Salespersons</source>
+          <target state="translated">Debitor sælgere</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Salespersons - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3476155305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profit Item Groups</source>
+          <target state="translated">Avance varegrupper</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profit Item Groups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3476155305 - Action 2079811733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Salesperson List</source>
+          <target state="translated">Debitor sælgere liste</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profit Item Groups - Action Customer Salesperson List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3476155305 - Action 704307318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Salesperson List</source>
+          <target state="translated">Debitor sælgere liste</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profit Item Groups - Action Customer Salespersons - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1375496715 - Action 3931381811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Customer Salesperson</source>
+          <target state="translated">Debitor sælger</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Customer Card Extension - Action CustomerSalesperson - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 742805820 - Control 4267659323 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Specifies the profit group for the item.</source>
+          <target state="translated">Definerer avancegruppen for en vare</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Item Card Extension - Control Profit Item Group Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 587053194 - Control 4267659323 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies the profit group for the item.</source>
+          <target state="translated">Definerer avancegruppen for en vare</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Item List Extension - Control Profit Item Group Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2127103306 - Control 3104372220 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379883806">
+          <source>Specifies the salesperson for the line.</source>
+          <target state="translated">Definerer sælgeren for denne linje</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Invoice Line Extension - Control ERPg Salesperson Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4121823097 - Control 3104372220 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
+          <source>Specifies the salesperson for the line.</source>
+          <target state="translated">Definerer sælgeren for denne linje</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Line Extension - Control ERPg Salesperson Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2042781808 - Field 4205484907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Profit Item Group Code</source>
+          <target state="translated">Avance varegruppekode</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Item Extension - Field ERPg Profit Item Group Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2127103306 - Field 3104372220 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Salesperson Code</source>
+          <target state="translated">Sælgerkode</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Invoice Line Extension - Field ERPg Salesperson Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4121823097 - Field 3104372220 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Salesperson Code</source>
+          <target state="translated">Sælgerkode</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Line Extension - Field ERPg Salesperson Code - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
